@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3559848-2e87-48ca-97a2-9364f8118873" name="Default Changelist" comment="" />
+    <list default="true" id="f3559848-2e87-48ca-97a2-9364f8118873" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/621任务调度器.go" beforeDir="false" afterPath="$PROJECT_DIR$/621任务调度器.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

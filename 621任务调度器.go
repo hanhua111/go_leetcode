@@ -23,14 +23,14 @@ func leastInterval(tasks []byte, n int) int {
 				l = 1
 			}
 		}
-	}
+	}hooj
 	w := len(tasks)
 	if w < (n+1)*(k-1)+l {
 	    w = (n+1)*(k-1)+l
 	}
 	return w
 }
-
+sd
 func main()  {
 	tasks := []byte{'A','A','A','B','B','B','C','D','E','F','G','H','I','J','K'}
 	n := 7
