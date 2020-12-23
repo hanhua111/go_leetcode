@@ -11,27 +11,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3559848-2e87-48ca-97a2-9364f8118873" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go_leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/349.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1j2bBYiKcX7tJnJqkQ0HQZSyrhF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -44,40 +52,41 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Go Build.go build tiaoshi.go">
-    <configuration name="go build 19.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build 621任务调度器.go">
+    <configuration name="go build 118杨辉三角.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/19.go" />
+      <filePath value="$PROJECT_DIR$/118杨辉三角.go" />
       <package value="go_leetcode" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 5543lc.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 127单词接龙.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/5543lc.go" />
+      <filePath value="$PROJECT_DIR$/127单词接龙.go" />
       <package value="go_leetcode" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 5545lc.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 242有效的字母异位词.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/5545lc.go" />
+      <filePath value="$PROJECT_DIR$/242有效的字母异位词.go" />
       <package value="go_leetcode" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build go_leetcode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 621任务调度器.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/5543lc.go" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/621任务调度器.go" />
       <package value="go_leetcode" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
@@ -93,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 621任务调度器.go" />
         <item itemvalue="Go Build.go build tiaoshi.go" />
-        <item itemvalue="Go Build.go build 5545lc.go" />
-        <item itemvalue="Go Build.go build 5543lc.go" />
-        <item itemvalue="Go Build.go build 19.go" />
-        <item itemvalue="Go Build.go build go_leetcode" />
+        <item itemvalue="Go Build.go build 118杨辉三角.go" />
+        <item itemvalue="Go Build.go build 127单词接龙.go" />
+        <item itemvalue="Go Build.go build 242有效的字母异位词.go" />
       </list>
     </recent_temporary>
   </component>
@@ -122,29 +131,61 @@
       <screen x="99" y="23" width="1693" height="1097" />
     </state>
     <state x="227" y="157" width="1071" height="758" key="#com.intellij.execution.impl.EditConfigurationsDialog/99.23.1693.1097@99.23.1693.1097" timestamp="1603075655945" />
-    <state width="1169" height="101" key="GridCell.Tab.0.bottom" timestamp="1603077169251">
-      <screen x="92" y="23" width="1700" height="1097" />
+    <state x="940" y="348" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604629213652">
+      <screen x="82" y="23" width="1710" height="1097" />
     </state>
-    <state width="1169" height="223" key="GridCell.Tab.0.bottom/87.23.1705.1097@87.23.1705.1097" timestamp="1603013870103" />
-    <state width="1169" height="101" key="GridCell.Tab.0.bottom/92.23.1700.1097@92.23.1700.1097" timestamp="1603077169251" />
+    <state x="940" y="348" key="#com.intellij.fileTypes.FileTypeChooser/82.23.1710.1097@82.23.1710.1097" timestamp="1604629213652" />
+    <state x="878" y="359" key="#xdebugger.evaluate" timestamp="1607259163927">
+      <screen x="61" y="23" width="1731" height="1097" />
+    </state>
+    <state x="878" y="359" key="#xdebugger.evaluate/1792.23.1920.1177/61.23.1731.1097@61.23.1731.1097" timestamp="1607259163927" />
+    <state width="1326" height="428" key="GridCell.Tab.0.bottom" timestamp="1607307879756">
+      <screen x="56" y="23" width="1736" height="1097" />
+    </state>
+    <state width="1326" height="428" key="GridCell.Tab.0.bottom/1792.23.1920.1177/61.23.1731.1097@61.23.1731.1097" timestamp="1607259578887" />
+    <state width="1326" height="428" key="GridCell.Tab.0.bottom/56.23.1736.1097@56.23.1736.1097" timestamp="1607307879756" />
+    <state width="927" height="296" key="GridCell.Tab.0.bottom/61.23.1731.1097@61.23.1731.1097" timestamp="1606037713977" />
+    <state width="1153" height="373" key="GridCell.Tab.0.bottom/63.23.1729.1097@63.23.1729.1097" timestamp="1606093692900" />
+    <state width="1189" height="320" key="GridCell.Tab.0.bottom/66.23.1726.1097@66.23.1726.1097" timestamp="1605430785033" />
+    <state width="1189" height="308" key="GridCell.Tab.0.bottom/68.23.1724.1097@68.23.1724.1097" timestamp="1605584717204" />
+    <state width="1404" height="207" key="GridCell.Tab.0.bottom/87.23.1705.1097@87.23.1705.1097" timestamp="1604630061714" />
+    <state width="1404" height="282" key="GridCell.Tab.0.bottom/92.23.1700.1097@92.23.1700.1097" timestamp="1604543659754" />
     <state width="1422" height="261" key="GridCell.Tab.0.bottom/99.23.1693.1097@99.23.1693.1097" timestamp="1603076299904" />
-    <state width="1169" height="101" key="GridCell.Tab.0.center" timestamp="1603077169251">
-      <screen x="92" y="23" width="1700" height="1097" />
+    <state width="1326" height="428" key="GridCell.Tab.0.center" timestamp="1607307879755">
+      <screen x="56" y="23" width="1736" height="1097" />
     </state>
-    <state width="1169" height="223" key="GridCell.Tab.0.center/87.23.1705.1097@87.23.1705.1097" timestamp="1603013870102" />
-    <state width="1169" height="101" key="GridCell.Tab.0.center/92.23.1700.1097@92.23.1700.1097" timestamp="1603077169251" />
+    <state width="1326" height="428" key="GridCell.Tab.0.center/1792.23.1920.1177/61.23.1731.1097@61.23.1731.1097" timestamp="1607259578887" />
+    <state width="1326" height="428" key="GridCell.Tab.0.center/56.23.1736.1097@56.23.1736.1097" timestamp="1607307879755" />
+    <state width="927" height="296" key="GridCell.Tab.0.center/61.23.1731.1097@61.23.1731.1097" timestamp="1606037713977" />
+    <state width="1153" height="373" key="GridCell.Tab.0.center/63.23.1729.1097@63.23.1729.1097" timestamp="1606093692900" />
+    <state width="1189" height="320" key="GridCell.Tab.0.center/66.23.1726.1097@66.23.1726.1097" timestamp="1605430785032" />
+    <state width="1189" height="308" key="GridCell.Tab.0.center/68.23.1724.1097@68.23.1724.1097" timestamp="1605584717204" />
+    <state width="1404" height="207" key="GridCell.Tab.0.center/87.23.1705.1097@87.23.1705.1097" timestamp="1604630061714" />
+    <state width="1404" height="282" key="GridCell.Tab.0.center/92.23.1700.1097@92.23.1700.1097" timestamp="1604543659754" />
     <state width="1422" height="261" key="GridCell.Tab.0.center/99.23.1693.1097@99.23.1693.1097" timestamp="1603076299904" />
-    <state width="1169" height="101" key="GridCell.Tab.0.left" timestamp="1603077169251">
-      <screen x="92" y="23" width="1700" height="1097" />
+    <state width="1326" height="428" key="GridCell.Tab.0.left" timestamp="1607307879755">
+      <screen x="56" y="23" width="1736" height="1097" />
     </state>
-    <state width="1169" height="223" key="GridCell.Tab.0.left/87.23.1705.1097@87.23.1705.1097" timestamp="1603013870102" />
-    <state width="1169" height="101" key="GridCell.Tab.0.left/92.23.1700.1097@92.23.1700.1097" timestamp="1603077169251" />
+    <state width="1326" height="428" key="GridCell.Tab.0.left/1792.23.1920.1177/61.23.1731.1097@61.23.1731.1097" timestamp="1607259578886" />
+    <state width="1326" height="428" key="GridCell.Tab.0.left/56.23.1736.1097@56.23.1736.1097" timestamp="1607307879755" />
+    <state width="927" height="296" key="GridCell.Tab.0.left/61.23.1731.1097@61.23.1731.1097" timestamp="1606037713976" />
+    <state width="1153" height="373" key="GridCell.Tab.0.left/63.23.1729.1097@63.23.1729.1097" timestamp="1606093692900" />
+    <state width="1189" height="320" key="GridCell.Tab.0.left/66.23.1726.1097@66.23.1726.1097" timestamp="1605430785032" />
+    <state width="1189" height="308" key="GridCell.Tab.0.left/68.23.1724.1097@68.23.1724.1097" timestamp="1605584717203" />
+    <state width="1404" height="207" key="GridCell.Tab.0.left/87.23.1705.1097@87.23.1705.1097" timestamp="1604630061713" />
+    <state width="1404" height="282" key="GridCell.Tab.0.left/92.23.1700.1097@92.23.1700.1097" timestamp="1604543659754" />
     <state width="1422" height="261" key="GridCell.Tab.0.left/99.23.1693.1097@99.23.1693.1097" timestamp="1603076299903" />
-    <state width="1169" height="101" key="GridCell.Tab.0.right" timestamp="1603077169251">
-      <screen x="92" y="23" width="1700" height="1097" />
+    <state width="1326" height="428" key="GridCell.Tab.0.right" timestamp="1607307879756">
+      <screen x="56" y="23" width="1736" height="1097" />
     </state>
-    <state width="1169" height="223" key="GridCell.Tab.0.right/87.23.1705.1097@87.23.1705.1097" timestamp="1603013870103" />
-    <state width="1169" height="101" key="GridCell.Tab.0.right/92.23.1700.1097@92.23.1700.1097" timestamp="1603077169251" />
+    <state width="1326" height="428" key="GridCell.Tab.0.right/1792.23.1920.1177/61.23.1731.1097@61.23.1731.1097" timestamp="1607259578887" />
+    <state width="1326" height="428" key="GridCell.Tab.0.right/56.23.1736.1097@56.23.1736.1097" timestamp="1607307879756" />
+    <state width="927" height="296" key="GridCell.Tab.0.right/61.23.1731.1097@61.23.1731.1097" timestamp="1606037713977" />
+    <state width="1153" height="373" key="GridCell.Tab.0.right/63.23.1729.1097@63.23.1729.1097" timestamp="1606093692900" />
+    <state width="1189" height="320" key="GridCell.Tab.0.right/66.23.1726.1097@66.23.1726.1097" timestamp="1605430785032" />
+    <state width="1189" height="308" key="GridCell.Tab.0.right/68.23.1724.1097@68.23.1724.1097" timestamp="1605584717204" />
+    <state width="1404" height="207" key="GridCell.Tab.0.right/87.23.1705.1097@87.23.1705.1097" timestamp="1604630061714" />
+    <state width="1404" height="282" key="GridCell.Tab.0.right/92.23.1700.1097@92.23.1700.1097" timestamp="1604543659754" />
     <state width="1422" height="261" key="GridCell.Tab.0.right/99.23.1693.1097@99.23.1693.1097" timestamp="1603076299904" />
     <state width="1169" height="101" key="GridCell.Tab.1.bottom" timestamp="1603077169252">
       <screen x="92" y="23" width="1700" height="1097" />
@@ -166,6 +207,23 @@
     </state>
     <state width="1169" height="101" key="GridCell.Tab.1.right/87.23.1705.1097@87.23.1705.1097" timestamp="1603010221315" />
     <state width="1169" height="101" key="GridCell.Tab.1.right/92.23.1700.1097@92.23.1700.1097" timestamp="1603077169252" />
+    <state width="735" height="457" key="XDebugger.FullValuePopup" timestamp="1607259125744">
+      <screen x="61" y="23" width="1731" height="1097" />
+    </state>
+    <state width="735" height="457" key="XDebugger.FullValuePopup/1792.23.1920.1177/61.23.1731.1097@61.23.1731.1097" timestamp="1607259125744" />
+    <state width="735" height="457" key="XDebugger.FullValuePopup/61.23.1731.1097@61.23.1731.1097" timestamp="1606035738182" />
+    <state width="734" height="457" key="XDebugger.FullValuePopup/63.23.1729.1097@63.23.1729.1097" timestamp="1605428935690" />
+    <state width="723" height="457" key="XDebugger.FullValuePopup/87.23.1705.1097@87.23.1705.1097" timestamp="1604543400010" />
+    <state x="441" y="411" width="601" height="490" key="find.popup" timestamp="1606035219586">
+      <screen x="61" y="23" width="1731" height="1097" />
+    </state>
+    <state x="434" y="411" width="604" height="490" key="find.popup/52.23.1740.1097@52.23.1740.1097" timestamp="1605959036676" />
+    <state x="441" y="411" width="601" height="490" key="find.popup/61.23.1731.1097@61.23.1731.1097" timestamp="1606035219586" />
+    <state x="1208" y="276" width="671" height="676" key="search.everywhere.popup" timestamp="1606037741412">
+      <screen x="61" y="23" width="1731" height="1097" />
+    </state>
+    <state x="1208" y="276" width="671" height="676" key="search.everywhere.popup/61.23.1731.1097@61.23.1731.1097" timestamp="1606037741412" />
+    <state x="1209" y="276" width="670" height="676" key="search.everywhere.popup/63.23.1729.1097@63.23.1729.1097" timestamp="1605426637134" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -174,6 +232,76 @@
           <url>file://$PROJECT_DIR$/5543lc.go</url>
           <line>42</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/127单词接龙.go</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/402移调K位数字.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/148排序链表.go</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/148排序链表.go</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/127单词接龙.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/127单词接龙.go</url>
+          <line>19</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/127单词接龙.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/127单词接龙.go</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/118杨辉三角.go</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/tiaoshi.go</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/621任务调度器.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/621任务调度器.go</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/621任务调度器.go</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/621任务调度器.go</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
