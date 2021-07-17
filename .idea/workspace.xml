@@ -11,9 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3559848-2e87-48ca-97a2-9364f8118873" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/146LRU缓存机制.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1486数组异或操作.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/akg[A[Ajg[A[A[Ac[Agcc[A[Ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer_03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer_04.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer_09.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jianzhioffer_10_1.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/621任务调度器.go" beforeDir="false" afterPath="$PROJECT_DIR$/621任务调度器.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +34,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.2/libexec" />
+  <component name="GOROOT" path="C:/Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -55,7 +63,19 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 621任务调度器.go">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build jianzhioffer_10_1.go">
     <configuration name="go build 118杨辉三角.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -65,22 +85,22 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 127单词接龙.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 146LRU缓存机制.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/127单词接龙.go" />
+      <filePath value="$PROJECT_DIR$/146LRU缓存机制.go" />
       <package value="go_leetcode" />
-      <directory value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build 242有效的字母异位词.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build 1486数组异或操作.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/242有效的字母异位词.go" />
+      <filePath value="$PROJECT_DIR$/1486数组异或操作.go" />
       <package value="go_leetcode" />
-      <directory value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <configuration name="go build 621任务调度器.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -92,40 +112,41 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build tiaoshi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build jianzhioffer_10_1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go_leetcode" />
-      <working_directory value="$PROJECT_DIR$" />
+      <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/tiaoshi.go" />
+      <filePath value="$PROJECT_DIR$/jianzhioffer_10_1.go" />
       <package value="go_leetcode" />
-      <directory value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 621任务调度器.go" />
-        <item itemvalue="Go Build.go build tiaoshi.go" />
+        <item itemvalue="Go Build.go build jianzhioffer_10_1.go" />
+        <item itemvalue="Go Build.go build 146LRU缓存机制.go" />
+        <item itemvalue="Go Build.go build 1486数组异或操作.go" />
         <item itemvalue="Go Build.go build 118杨辉三角.go" />
-        <item itemvalue="Go Build.go build 127单词接龙.go" />
-        <item itemvalue="Go Build.go build 242有效的字母异位词.go" />
+        <item itemvalue="Go Build.go build 621任务调度器.go" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="227" y="157" width="1071" height="758" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603075655945">
@@ -303,6 +324,21 @@
           <url>file://$PROJECT_DIR$/621任务调度器.go</url>
           <line>12</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/146LRU缓存机制.go</url>
+          <line>140</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/146LRU缓存机制.go</url>
+          <line>139</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/146LRU缓存机制.go</url>
+          <line>133</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
