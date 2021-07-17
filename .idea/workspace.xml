@@ -11,15 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3559848-2e87-48ca-97a2-9364f8118873" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/146LRU缓存机制.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1486数组异或操作.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/akg[A[Ajg[A[A[Ac[Agcc[A[Ac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer_03.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer_04.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer_09.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jianzhioffer_10_1.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.go" beforeDir="false" afterPath="$PROJECT_DIR$/test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
